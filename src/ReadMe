@@ -1,0 +1,31 @@
+ReadMe
+
+720 lines of code
+	
+myColor is a new Color class with more support for alpha colors and changing values 	
+
+Highway is-a road
+	highway has- center lines
+	highway has side lines
+	has speed limit signs
+		has-a point
+	has street lamps
+		has-a point
+
+night-sky is-a sky
+	has stars
+		has 2 points
+	has-a moon
+		has a point
+	has clouds
+		has 2 points
+		
+forest has-a treeline
+	treeline has-a pineTree
+	
+fire is-a firepit
+	firepit has 2 points
+	
+tent has-a polygon
+	has-a  
+	
