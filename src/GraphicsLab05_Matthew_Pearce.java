@@ -7,6 +7,7 @@ public class GraphicsLab05_Matthew_Pearce extends Applet{
 	public void paint (Graphics g)
 	{
 		//random comment
+		//comment
 		Antialiasing.applyAntialiasing(g); 
 		nightSky sky = new nightSky(g);			//creates the night sky 
 		Ground ground = new Ground(g);
